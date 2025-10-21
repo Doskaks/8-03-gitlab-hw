@@ -38,11 +38,13 @@
    
    ![Резвернут Gitlab, создан новый проект и пустой репозиторий в нем](https://github.com/Doskaks/8-03-gitlab-hw/blob/main/Screenshot_1.png)
    
-3. [Зарегистрируйте gitlab-runner (в режиме Docker):](https://github.com/Doskaks/8-03-gitlab-hw/blob/main/Screenshot_1.png)
-4. `Заполните здесь этапы выполнения, если требуется ....`
+3. [Зарегистрировал gitlab-runner (в режиме Docker):](https://github.com/Doskaks/8-03-gitlab-hw/blob/main/Runners.jpg)
+
+   ![Зарегистрировал gitlab-runner (в режиме Docker):](https://github.com/Doskaks/8-03-gitlab-hw/blob/main/Runners.jpg)
 5. `Заполните здесь этапы выполнения, если требуется ....`
 6. `Заполните здесь этапы выполнения, если требуется ....`
-7. 
+7. `Заполните здесь этапы выполнения, если требуется ....`
+8. 
 
 ```
 Поле для вставки кода...
