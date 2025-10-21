@@ -34,7 +34,8 @@
 
 
 
-1. [Резвернут Gitlab и создан новый проект и пустой репозиторий в нем](https://github.com/Doskaks/8-03-gitlab-hw/blob/main/Screenshot_1.png)
+1. [Резвернут Gitlab и создан новый проект и пустой репозиторий в нем:](https://github.com/Doskaks/8-03-gitlab-hw/blob/main/Screenshot_1.png)
+   
    ![Резвернут Gitlab и создан новый проект и пустой репозиторий в нем](https://github.com/Doskaks/8-03-gitlab-hw/blob/main/Screenshot_1.png)
 3. `Заполните здесь этапы выполнения, если требуется ....`
 4. `Заполните здесь этапы выполнения, если требуется ....`
