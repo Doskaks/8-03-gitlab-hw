@@ -49,23 +49,6 @@
 
  
 
-Docker
-```
-[[runners]]
-  name = "docker-runner-yandex-cloud"
-  url = "http://158.160.147.81/"
-  token = "your_runner_token"
-  executor = "docker"
-  [runners.docker]
-    tls_verify = false
-    image = "alpine:latest"
-    privileged = false
-    disable_entrypoint_overwrite = false
-    oom_kill_disable = false
-    disable_cache = false
-    volumes = ["/cache", "/var/run/docker.sock:/var/run/docker.sock"]
-    shm_size = 0
-```
 
 
 ---
