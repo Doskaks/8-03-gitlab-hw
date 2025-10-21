@@ -33,6 +33,7 @@
 В качестве ответа в репозиторий шаблона с решением добавьте скриншоты с настройками раннера в проекте.
 
 
+### Решение 1
 
 1. [Резвернут Gitlab, создан новый проект и пустой репозиторий в нем:](https://github.com/Doskaks/8-03-gitlab-hw/blob/main/Screenshot_1.png)
    
@@ -48,6 +49,7 @@
 
  
 
+Docker
 ```
 [[runners]]
   name = "docker-runner-yandex-cloud"
