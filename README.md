@@ -46,23 +46,24 @@
 
    ![Настройки Runners:](https://github.com/Doskaks/8-03-gitlab-hw/blob/main/Setting_runners.jpg)
 
-
-   
-5. `Заполните здесь этапы выполнения, если требуется ....`
-6. `Заполните здесь этапы выполнения, если требуется ....`
-7. `Заполните здесь этапы выполнения, если требуется ....`
-8. 
+ 
 
 ```
-Поле для вставки кода...
-....
-....
-....
-....
+[[runners]]
+  name = "docker-runner-yandex-cloud"
+  url = "http://158.160.147.81/"
+  token = "your_runner_token"
+  executor = "docker"
+  [runners.docker]
+    tls_verify = false
+    image = "alpine:latest"
+    privileged = false
+    disable_entrypoint_overwrite = false
+    oom_kill_disable = false
+    disable_cache = false
+    volumes = ["/cache", "/var/run/docker.sock:/var/run/docker.sock"]
+    shm_size = 0
 ```
-
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота 1](ссылка на скриншот 1)`
 
 
 ---
