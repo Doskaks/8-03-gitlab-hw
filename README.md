@@ -41,6 +41,13 @@
 3. [Зарегистрировал gitlab-runner (в режиме Docker):](https://github.com/Doskaks/8-03-gitlab-hw/blob/main/Runners.jpg)
 
    ![Зарегистрировал gitlab-runner (в режиме Docker):](https://github.com/Doskaks/8-03-gitlab-hw/blob/main/Runners.jpg)
+
+   [Настройки Runners:](https://github.com/Doskaks/8-03-gitlab-hw/blob/main/Setting_runners.jpg)
+
+   ![Настройки Runners:](https://github.com/Doskaks/8-03-gitlab-hw/blob/main/Setting_runners.jpg)
+
+
+   
 5. `Заполните здесь этапы выполнения, если требуется ....`
 6. `Заполните здесь этапы выполнения, если требуется ....`
 7. `Заполните здесь этапы выполнения, если требуется ....`
