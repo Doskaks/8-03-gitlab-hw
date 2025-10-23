@@ -68,9 +68,9 @@
 
 ### Решение 2
 
-1. [Запушty репозиторий на GitLab](https://github.com/Doskaks/8-03-gitlab-hw/blob/main/my_rep_nikolay.jpg)
+1. [Запущен репозиторий на GitLab](https://github.com/Doskaks/8-03-gitlab-hw/blob/main/my_rep_nikolay.jpg)
    
-   ![Запушty репозиторий на GitLab](https://github.com/Doskaks/8-03-gitlab-hw/blob/main/my_rep_nikolay.jpg)
+   ![Запущен репозиторий на GitLab](https://github.com/Doskaks/8-03-gitlab-hw/blob/main/my_rep_nikolay.jpg)
 
 2. Создан .gitlab-ci.ym:
 
@@ -88,8 +88,8 @@ test_go-01:
     - netology
 ```
 
-[Сборка:](https://github.com/Doskaks/8-03-gitlab-hw/blob/main/test_go_01.jpg)
+[Успешная сборка:](https://github.com/Doskaks/8-03-gitlab-hw/blob/main/test_go_01.jpg)
    
-![Сборка:](https://github.com/Doskaks/8-03-gitlab-hw/blob/main/test_go_01.jpg)
+![Успешная сборка:](https://github.com/Doskaks/8-03-gitlab-hw/blob/main/test_go_01.jpg)
 
 
