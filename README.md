@@ -35,7 +35,7 @@
 
 ### Решение 1
 
-1. [Резвернут Gitlab, создан новый проект и пустой репозиторий в нем:](https://github.com/Doskaks/8-03-gitlab-hw/blob/main/my_rep_nikolay.jpg)
+1. [Резвернут Gitlab, создан новый проект и репозиторий в нем:](https://github.com/Doskaks/8-03-gitlab-hw/blob/main/my_rep_nikolay.jpg)
    
    ![Резвернут Gitlab, создан новый проект и пустой репозиторий в нем](https://github.com/Doskaks/8-03-gitlab-hw/blob/main/my_rep_nikolay.jpg)
    
